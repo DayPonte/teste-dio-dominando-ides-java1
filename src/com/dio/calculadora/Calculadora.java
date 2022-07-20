@@ -7,12 +7,7 @@ public class Calculadora {
 	public static void main(String[] args) {
 		try (Scanner scan = new Scanner(System.in)) {
 			int a, b;
-	
-			public class Hex {
-				  public void main(String args[a.b]){
-				    int i = 42;
-				    
-		
+
 			
 			System.out.println("Digite o primeiro valor: ");
 			a = scan.nextInt();
@@ -36,7 +31,9 @@ public class Calculadora {
 		}
 		
 	}
-		
+	
+	
+	
 
 	public static int soma(int a, int b) {
 		return a + b;
@@ -54,5 +51,7 @@ public class Calculadora {
 		return a * b;
 		
 			}
+	
+	
 	
 }
